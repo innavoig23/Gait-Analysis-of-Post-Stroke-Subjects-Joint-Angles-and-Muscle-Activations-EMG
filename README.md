@@ -3,6 +3,10 @@
 This repository contains the work conducted as part of a university course project focusing on the gait analysis of post-stroke subjects.
 The research is based on data derived from the paper available at [PubMed](https://pubmed.ncbi.nlm.nih.gov/38040770/).
 The analysis includes the examination of joint angles and other kinematic parameters (stride speed, length, and duration) as well as the study of muscle activations/EMG.
+The study was computed using MATLAB. The code is provided in the `scripts` folder of this repository. It includes scripts for data processing, analysis, and visualization related to the project's aims.
+
+This repository serves as a comprehensive resource for researchers and students interested in the biomechanics of post-stroke gait rehabilitation, offering insights into the kinematic and kinetic aspects of walking impairments and their potential treatments.
+
 
 ## Project Pipeline
 
@@ -19,4 +23,6 @@ The workflow of this project is outlined as follows:
 9. **Identification of Noise-Only Zones in sEMG Signals**: Detecting portions of the signal that contain only noise, to refine signal analysis.
 10. **Calculation of Threshold for Muscle Activation Instances**: Establishing a threshold on the signal envelope to accurately identify instances of muscle activation.
 
-This repository serves as a comprehensive resource for researchers and students interested in the biomechanics of post-stroke gait rehabilitation, offering insights into the kinematic and kinetic aspects of walking impairments and their potential treatments.
+## Additional Documentation
+
+Alongside the code, the project also involved the creation of a detailed report/thesis. However, due to academic requirements, this document was written in Italian rather than English. This may limit accessibility for non-Italian speakers, but it provides comprehensive insights and findings of the research conducted.
