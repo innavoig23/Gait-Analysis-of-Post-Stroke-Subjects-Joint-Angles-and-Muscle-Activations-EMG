@@ -29,6 +29,6 @@ Alongside the code, the project also involved the creation of a detailed report/
 
 ## References
 
-This project has benefited from the use of the biomechZoo toolbox, in particular for the `chordPiG.m` function. We cite the following work:
+This project makes use of `chordPiG.m` function of the biomechZoo toolbox from the following work:
 Dixon PC, Loh JJ, Michaud-Paquette Y, Pearsall DJ. biomechZoo: An open-source toolbox for the processing, analysis, and visualization of biomechanical movement data. Computer Methods and Programs in Biomedicine, Volume 140, 2017, Pages 1-10, [https://doi.org/10.1016/j.cmpb.2016.11.007](https://doi.org/10.1016/j.cmpb.2016.11.007).
 
