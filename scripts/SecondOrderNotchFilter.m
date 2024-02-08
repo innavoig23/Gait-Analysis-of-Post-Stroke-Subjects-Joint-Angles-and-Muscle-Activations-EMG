@@ -9,7 +9,7 @@ function [b, a] = SecondOrderNotchFilter(z,B,fc,T)
 % 	     - T:  sampling interval
 %
 % Output: - b  filter coefficients (MA part - Moving Average part)
-%	      - a  filter coefficients (AR part - Auto-Regressive part)
+%	        - a  filter coefficients (AR part - Auto-Regressive part)
 %
 
 b = pi*B*T;
