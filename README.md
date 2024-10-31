@@ -5,7 +5,7 @@ The research is based on data derived from the paper available at [PubMed](https
 The analysis includes the examination of joint angles and other kinematic parameters (stride speed, length, and duration) as well as the study of muscle activations/EMG.
 The study was computed using MATLAB. The code is provided in the `scripts` folder of this repository. It includes scripts for data processing, analysis, and visualization related to the project's aims.
 
-This repository serves as a comprehensive resource for researchers and students interested in the biomechanics of post-stroke gait rehabilitation, offering insights into the kinematic and kinetic aspects of walking impairments and their potential treatments.
+This repository serves as a comprehensive resource for people interested in the biomechanics of post-stroke gait rehabilitation, offering insights into the kinematic and kinetic aspects of walking impairments and their potential treatments.
 
 
 ## Project Pipeline
@@ -25,7 +25,7 @@ The workflow of this project is outlined as follows:
 
 ## Additional Documentation
 
-Alongside the code, the project also involved the creation of a detailed report/thesis. However, due to academic requirements, this document was written in Italian rather than English. This may limit accessibility for non-Italian speakers, but it provides comprehensive insights and findings of the research conducted.
+Alongside the code, the project also involved the creation of a detailed report/thesis. However, due to academic requirements, this document was written in Italian rather than English, limiting accessibility for non-Italian speakers.
 
 ## References
 
